@@ -1,0 +1,36 @@
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+locale: "en-US"
+title: "Yang (Garry) Gao"
+url: "https://GarryGao00.github.io"
+description: "Software Development Engineer @ Amazon.com, Inc."
+
+author:
+  name: "Yang (Garry) Gao"
+  avatar: "/asset/imgs/personal-headshot.png"
+  bio: "Software Development Engineer @ Amazon.com, Inc."
+  location: "Seattle, WA / Berkeley, CA"
+  email: "garrygao2000@gmail.com"
+  links:
+    - label: "LinkedIn"
+      url: "https://linkedin.com/in/yanggao2000"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
