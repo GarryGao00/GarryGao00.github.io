@@ -1,23 +1,23 @@
 ---
-layout: home
+layout: single
 author_profile: true
 ---
 
-Welcome to my personal website. I am a Software Development Engineer at Amazon.com, Inc. based in Seattle, WA. I hold a Master of Engineering from UC Berkeley and a Bachelor of Arts from Grinnell College. My interests lie in software development, machine learning, and robotics.
-
 <div id="about"></div>
+
+I am a Software Development Engineer at Amazon.com, Inc. based in Seattle, WA. I hold a Master of Engineering from UC Berkeley and a Bachelor of Arts from Grinnell College. My interests lie in software development, machine learning, and robotics.
 
 # Education
 
 ### University of California, Berkeley (Berkeley, CA)
-**Master of Engineering, Concentration in Control of Robotic and Autonomous Systems**
+Master of Engineering, Concentration in Control of Robotic and Autonomous Systems
+
 *Aug 2023 - May 2024*
-* **GPA:** 3.92
 
 ### Grinnell College (Grinnell, IA)
-**Bachelor of Arts, Computer Science & Physics (Honors)**
+Bachelor of Arts, Computer Science & Physics (Honors)
+
 *Aug 2019 - May 2022*
-* **Major GPA:** 4.0 | **Cumulative GPA:** 3.89
 
 ---
 
@@ -48,9 +48,6 @@ Welcome to my personal website. I am a Software Development Engineer at Amazon.c
 
 ---
 
-# Technical Skills
-* **Languages:** Python, Java, TypeScript, C, C++, Scheme, SQL, R
-* **Tools & Technologies:** AWS, Git, TensorFlow, PyTorch, HDFS, Matplotlib, Keras, CatBoost, SHAP
 
 <div id="research"></div>
 

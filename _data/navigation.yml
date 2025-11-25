@@ -1,9 +1,9 @@
 main:
-  - title: "Home"
-    url: /
   - title: "About"
     url: /#about
-  - title: "Research"
-    url: /#research
+  - title: "Experience"
+    url: /#professional-experience
+  - title: "Publication"
+    url: /#publications
   - title: "CV"
     url: /asset/Resume2025Oct.pdf

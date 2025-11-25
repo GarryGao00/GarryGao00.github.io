@@ -1,7 +1,7 @@
 # Profile Information
 **Name:** Yang (Garry) Gao
 **Location:** Seattle, WA / Berkeley, CA
-**Email:** garrygao2000@gmail.com
+**Email:** yanggaograd@gmail.com
 **LinkedIn:** linkedin.com/in/yanggao2000
 **Phone:** (641) 275-2457
 
@@ -12,12 +12,10 @@
 ### University of California, Berkeley (Berkeley, CA)
 **Master of Engineering, Concentration in Control of Robotic and Autonomous Systems**
 *Aug 2023 - May 2024*
-* **GPA:** 3.92
 
 ### Grinnell College (Grinnell, IA)
 **Bachelor of Arts, Computer Science & Physics (Honors)**
 *Aug 2019 - May 2022*
-* **Major GPA:** 4.0 | **Cumulative GPA:** 3.89
 
 ---
 

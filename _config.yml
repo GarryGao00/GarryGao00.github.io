@@ -3,14 +3,14 @@ minimal_mistakes_skin: "default"
 locale: "en-US"
 title: "Yang (Garry) Gao"
 url: "https://GarryGao00.github.io"
-description: "Software Development Engineer @ Amazon.com, Inc."
+description: "SDE @ Amazon.com, Inc."
 
 author:
   name: "Yang (Garry) Gao"
   avatar: "/asset/imgs/personal-headshot.png"
-  bio: "Software Development Engineer @ Amazon.com, Inc."
+  bio: "SDE @ Amazon.com, Inc."
   location: "Seattle, WA / Berkeley, CA"
-  email: "garrygao2000@gmail.com"
+  email: "yanggaograd@gmail.com"
   links:
     - label: "LinkedIn"
       url: "https://linkedin.com/in/yanggao2000"
