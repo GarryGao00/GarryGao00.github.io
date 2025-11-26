@@ -1,0 +1,49 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom styles */
+
+/* Scale down all text sizes */
+html {
+  font-size: 16px !important;
+}
+
+/* Make H1 headers smaller */
+h1 {
+  font-size: 1.5em !important;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+/* Adjust H2 headers as well for better hierarchy */
+h2 {
+  font-size: 1.25em !important;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+/* Adjust H3 headers */
+h3 {
+  font-size: 1.1em !important;
+}
+
+/* Scale down body text */
+body, .page__content {
+  font-size: 1em !important;
+}
+
+/* Reduce spacing in education section */
+.page__content p {
+  margin-bottom: 0.5em;
+}
+
+/* Tighten up spacing for education entries */
+.page__content strong + br {
+  display: none;
+}
