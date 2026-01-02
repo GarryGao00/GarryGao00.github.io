@@ -4,6 +4,10 @@ author_profile: true
 title: "About"
 ---
 
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/react/" class="btn btn--primary btn--large">🚀 View Interactive Version</a>
+</div>
+
 I am a Software Development Engineer at Amazon.com, Inc. based in Seattle, WA. I hold a Master of Engineering from UC Berkeley and a Bachelor of Arts from Grinnell College. My interests lie in software development, machine learning, and robotics.
 
 ## Education

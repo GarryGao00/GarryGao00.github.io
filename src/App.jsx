@@ -4,8 +4,12 @@ function App() {
   return (
     <div className="portfolio">
       <header className="header">
+        <div className="nav-link">
+          <a href="/" className="back-link">← Back to Main Site</a>
+        </div>
         <h1>Garry Gao</h1>
         <p>Software Development Engineer at Amazon</p>
+        <p className="version-badge">Interactive Version</p>
       </header>
 
       <main className="main-content">

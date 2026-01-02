@@ -5,6 +5,10 @@ title: "Yang (Garry) Gao"
 url: "https://GarryGao00.github.io"
 description: "SDE @ Amazon.com, Inc."
 
+# Exclude React build from Jekyll processing
+exclude:
+  - react/
+
 author:
   name: "Yang (Garry) Gao"
   avatar: "/asset/imgs/personal-headshot.png"
