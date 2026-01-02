@@ -10,6 +10,22 @@ __pycache__/
 .DS_Store
 .vscode/
 
+# Node.js / React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# React build files (keep the built /react/ folder for GitHub Pages)
+# We want to commit the built React app but ignore source files on main branch
+src/
+public/
+package.json
+package-lock.json
+vite.config.js
+*.tsbuildinfo
+
 # Distribution / packaging
 .Python
 build/
@@ -133,7 +149,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ruby
+# Ruby / Jekyll
 vendor/
 .bundle/
 .sass-cache/
